@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yashasvi 👋
+
+Aspiring Data Analyst currently building projects in:
+
+- Excel
+- SQL
+- Power BI
+- Python
+- Data Visualization
+
+## Portfolio Projects
+
+### Excel Sales Dashboard
+📊 Interactive Sales Dashboard built in Microsoft Excel
+
+Repository:
+
+
+
 
 <!--
 **yashasviii-27/yashasviii-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
