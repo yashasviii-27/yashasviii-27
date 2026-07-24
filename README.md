@@ -14,6 +14,24 @@ Aspiring Data Analyst currently building projects in:
 📊 Interactive Sales Dashboard built in Microsoft Excel
 
 Repository:
+# Hi, I'm Yashasvi 👋
+
+Aspiring Data Analyst currently building projects in:
+
+- Excel
+- SQL
+- Power BI
+- Python
+- Data Visualization
+
+## Portfolio Projects
+
+### Excel Sales Dashboard
+📊 Interactive Sales Dashboard built in Microsoft Excel
+
+Repository:
+https://github.com/yashasviii-27/excel-sales-dashboard
+
 
 
 
